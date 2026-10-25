@@ -15,7 +15,7 @@ A single trained phase mask routes both input beams to their correct output regi
 ## Files
 
 - Full report with figures: `Diffractive Optical Computing Simulating Light-Based Neural Network via Free-Space Wave Propogation and Training a single learnable diffractive layer.pdf`
-- Code: see the .ipynb file in this repo
+- Code: see the .ipynb notebook in this repo
 
 ## Status
 
